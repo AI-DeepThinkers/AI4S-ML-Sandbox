@@ -41,7 +41,7 @@ This project showcases my end-to-end data science capabilities:
 ## 🧰 Tech Stack
 
 - **Language**: Python
-- **Libraries**: `pandas`, `numpy`, `scikit-learn`, `matplotlib`, `seaborn`, `nltk`, `statsmodels`, `BeautifulSoup`, `TensorFlow` (optional)
+- **Libraries**: `pandas`, `numpy`, `scikit-learn`, `matplotlib`, `seaborn`, `nltk`, `statsmodels`, `BeautifulSoup`, `TensorFlow`
 - **Tools**: Jupyter Notebooks, Streamlit (for interactive apps), Git, GitHub
 
 ---
@@ -109,5 +109,6 @@ Special thanks to @Codveda for designing this multi-level learning experience.
 | 🌐 Portfolio  | [delightplus-portfolio.vercel.app](https://delightplus-portfolio.vercel.app) |
 | 📊 Streamlit App Preview | [Click to Launch](https://<your-streamlit-url>) |
 ---
+
 
 
