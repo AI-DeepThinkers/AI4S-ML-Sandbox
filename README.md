@@ -95,8 +95,8 @@ This project showcases my end-to-end data science capabilities:
 ## Acknowledgment
 This project was developed as part of a multi-level data science assessment.
 
-Special thanks to @Codveda for designing this multi-level learning experience.
-#CodvedaJourney #DataSciencePortfolio #MachineLearning #DataAnalysis
+
+#AI4SE #DataSciencePortfolio #MachineLearning #DataAnalysis
 
 ---
 ## 🤝 Connect With Me
@@ -107,8 +107,9 @@ Special thanks to @Codveda for designing this multi-level learning experience.
 | 📧 Email      | [matlakalakabelo1@gmail.com](mailto:matlakalakabelo1@gmail.com) |
 | 💻 GitHub     | [github.com/DeLightPlus](https://github.com/DeLightPlus) |
 | 🌐 Portfolio  | [delightplus-portfolio.vercel.app](https://delightplus-portfolio.vercel.app) |
-| 📊 Streamlit App Preview | [Click to Launch](https://<your-streamlit-url>) |
+| 📊 Streamlit App Preview | [Click to Launch](https://ai4se-ml-sandbox.streamlit.app) |
 ---
+
 
 
 
