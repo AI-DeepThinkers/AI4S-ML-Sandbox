@@ -84,5 +84,6 @@ elif nav_choice == "Level 3 – Advanced":
 with st.sidebar:
     st.markdown("---")
     st.markdown("Built with ❤️ by [KP Matlakala](https://github.com/DeLightPlus)")
-    st.markdown("Part of the #AI4SE, #CodvedaJourney, and #DataSciencePortfolio initiatives.")
+    st.markdown("Part of the #AI4SE and #DataSciencePortfolio initiatives.")
+
     st.markdown("Connect with me on [LinkedIn](https://www.linkedin.com/in/kabelo-matlakala-704349273)")
